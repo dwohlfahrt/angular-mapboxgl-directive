@@ -26,7 +26,7 @@
   },
   "homepage": "https://naimikan.github.io/angular-mapboxgl-directive/",
   "dependencies": {
-    "angular": ">=1.5",
+    "angular": ">=1.8.3",
     "mapbox-gl": ">=0.23.0"
   },
   "devDependencies": {
